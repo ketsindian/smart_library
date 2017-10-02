@@ -13,6 +13,8 @@ We built a RFID based smart solution which removes manual intervention in librar
 
 1.3. Atmega 2560 used to send data of RFID readers using USB to TTL converter.
 
+1.4 GSM module was used for sending notifications via SMS.
+
 
 
 2.1 Netbeans was used as IDE for database handling using JDBS.
